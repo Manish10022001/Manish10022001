@@ -20,7 +20,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish10022001&layout=compact&theme=blue_navy)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish10022001&theme=blue_navy&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish10022001&theme=dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
