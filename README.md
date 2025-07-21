@@ -1,4 +1,3 @@
-
 # Hi, I'm Manish Shirsat👋
 
 ## 🛠️ Technologies & Tools
@@ -14,14 +13,15 @@
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 
-## GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish10022001&show_icons=true&count_private=true&hide=prs&theme=blue_navy)
 
-## Top Languages
+## 🏆 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish10022001&layout=compact&theme=blue_navy)
 
+## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish10022001&theme=dark&hide_border=true)
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manish10022001&theme=flat&column=3&row=1&no-frame=true&margin-w=15&margin-h=15)
 
