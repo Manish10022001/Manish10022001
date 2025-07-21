@@ -14,7 +14,7 @@
 - ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish10022001&show_icons=true&count_private=true&hide=prs&theme=blue_navy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish10022001&show_icons=true&count_private=true&theme=blue_navy)
 
 ## 🏆 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish10022001&layout=compact&theme=blue_navy)
