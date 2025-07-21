@@ -1,6 +1,19 @@
 
 # Hi, I'm Manish Shirsat👋
 
+## 🛠️ Technologies & Tools
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
+- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish10022001&show_icons=true&count_private=true&hide=prs&theme=blue_navy)
 
