@@ -21,8 +21,6 @@
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish10022001&theme=dark&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manish10022001&theme=default)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manish10022001&theme=flat&column=3&row=1&no-frame=true&margin-w=15&margin-h=15)
