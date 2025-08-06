@@ -1,7 +1,7 @@
 # Hi, I'm Manish Shirsat👋
 
 ## 🛠️ Technologies & Tools
-
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
