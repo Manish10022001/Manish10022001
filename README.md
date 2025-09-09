@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-React-2D2D2D?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-HTML5-2D2D2D?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/-CSS3-2D2D2D?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  
+  <img src="https://img.shields.io/badge/-Bootstrap-2D2D2D?style=for-the-badge&logo=bootstrap&logoColor=563D7C" />
 </p>
 
 ### Backend
