@@ -1,4 +1,4 @@
-# Hi, I'm Manish Shirsat👋
+
 ![Header](./github-header-banner.png)
 
 ## 🛠️ Technologies & Tools
