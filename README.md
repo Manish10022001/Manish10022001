@@ -49,7 +49,7 @@
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=10&margin-w=10&margin-h=10" 
+      src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7&margin-w=10&margin-h=10" 
       alt="GitHub Profile Trophies"
     />
   </a>
