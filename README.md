@@ -41,6 +41,20 @@
   <img src="https://img.shields.io/badge/-Python-2D2D2D?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/manish10022001/count.svg)
+
+<!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=manish10022001&theme=react-dark&hide_border=true&area=true) -->
+
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=10&margin-w=10&margin-h=10" 
+      alt="GitHub Profile Trophies"
+    />
+  </a>
+</div>
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish10022001&show_icons=true&count_private=true&theme=blue_navy)
@@ -51,7 +65,8 @@
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish10022001&theme=blue_navy&hide_border=false&background=0d1117)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manish10022001&theme=flat&column=3&row=1&no-frame=true&margin-w=15&margin-h=15)
+
+<!-- ## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manish10022001&theme=flat&column=3&row=1&no-frame=true&margin-w=15&margin-h=15) -->
 
 
