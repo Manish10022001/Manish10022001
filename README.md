@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/-Python-2D2D2D?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/manish10022001/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Manish10022001/count.svg)
 
 <!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=manish10022001&theme=react-dark&hide_border=true&area=true) -->
 
@@ -49,7 +49,7 @@
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7&margin-w=10&margin-h=10" 
+      src="https://github-profile-trophy.vercel.app/?username=Manish10022001&column=7&margin-w=10&margin-h=10" 
       alt="GitHub Profile Trophies"
     />
   </a>
