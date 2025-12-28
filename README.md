@@ -180,7 +180,7 @@ Languages and Tools:
 -->
 <!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=manish10022001&theme=react-dark&hide_border=true&area=true) -->
 
-<div>
+<!-- <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
@@ -188,7 +188,7 @@ Languages and Tools:
       alt="GitHub Profile Trophies"
     />
   </a>
-</div>
+</div> -->
 
 <!--
 ## 📊 GitHub Stats
@@ -198,7 +198,11 @@ Languages and Tools:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish10022001&layout=compact&theme=blue_navy) -->
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish10022001&theme=blue_navy&hide_border=false&background=0d1117)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish10022001&theme=blue_navy&hide_border=false&background=0d1117) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=manish10022001&theme=tokyonight)
+
+## 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=manish10022001&style=flat-square" />
 
 
 <!-- ## 🏆 GitHub Trophies
