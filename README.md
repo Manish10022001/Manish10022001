@@ -205,7 +205,7 @@ Languages and Tools:
 <img src="https://komarev.com/ghpvc/?username=manish10022001&style=flat-square" />
 
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manish10022001&theme=flat&column=3&row=1&no-frame=true&margin-w=15&margin-h=15) 
+<!-- ## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manish10022001&theme=flat&column=3&row=1&no-frame=true&margin-w=15&margin-h=15)  -->
 
 
