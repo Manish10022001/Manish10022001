@@ -7,7 +7,7 @@ Hi, I'm **Manish Shirsat** — a passionate **Full Stack Developer** who loves b
 I enjoy working across the stack — from designing intuitive frontends to building robust backend systems.
 
 - 🔭 Currently working as a **Web Developer** at [Inovite](https://inovite.in), developing a React-based UI for enterprise solutions.  
-- 💻 Skilled in both **Frontend** and **Backend** development using **Java (Spring Boot)** and **JavaScript (React, Node.js)**.  
+- 💻 Skilled in both **Frontend** and **Backend** development using  **JavaScript and TypeScript (React, Node.js)**.  
 - ⚙️ Experienced in creating **RESTful APIs**, **responsive UIs**, and **secure web applications**.  
 - 🌱 Always exploring new technologies and improving my craft in **Full Stack Development**.  
 - 💬 Love collaborating with teams to turn ideas into production-ready solutions.  
