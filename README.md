@@ -12,7 +12,7 @@ I enjoy working across the stack — from designing intuitive frontends to build
 - 🌱 Always exploring new technologies and improving my craft in **Full Stack Development**.  
 - 💬 Love collaborating with teams to turn ideas into production-ready solutions.  
 - 🎯 Open to **Backend**, **Frontend**, or **Full Stack** roles.  
-<!-- 
+
 Languages and Tools: 
 <p>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -135,7 +135,7 @@ Languages and Tools:
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a></p>
--->
+
 <!--
 ## 🛠️ Technologies & Tools
 ### Frontend
