@@ -3,6 +3,17 @@
 
 ## 👋 About Me
 
+Hi, I'm Manish Shirsat — a passionate Full Stack Developer who loves building efficient, scalable, and user-focused web applications.
+I enjoy working across the stack — from designing intuitive frontends to building robust backend systems.
+
+-🔭 Currently working as an Associate Software Developer at Turtle Software Pvt. Ltd.<br>
+-💻 Skilled in Frontend & Backend development using JavaScript, TypeScript, React, Node.js <br>
+-⚙️ Experienced in building RESTful APIs, scalable systems, and multi-tenant applications <br>
+-📱 Built and deployed cross-platform mobile apps (React Native - Expo) <br>
+-🌱 Continuously learning and improving in Full Stack Development & System Design <br>
+-💬 Strong collaborator in Agile teams, code reviews, and product development cycles <br>
+-🎯 Open to Backend, Frontend, or Full Stack roles <br>
+<!--
 Hi, I'm **Manish Shirsat** — a passionate **Full Stack Developer** who loves building efficient, scalable, and user-focused web applications.  
 I enjoy working across the stack — from designing intuitive frontends to building robust backend systems.
 
@@ -12,7 +23,7 @@ I enjoy working across the stack — from designing intuitive frontends to build
 - 🌱 Always exploring new technologies and improving my craft in **Full Stack Development**.  
 - 💬 Love collaborating with teams to turn ideas into production-ready solutions.  
 - 🎯 Open to **Backend**, **Frontend**, or **Full Stack** roles.  
-
+-->
 Languages and Tools: 
 <!--
 <p>
@@ -138,49 +149,19 @@ Languages and Tools:
     </a></p>
 -->
 
-## 🛠️ Technologies & Tools
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-2D2D2D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-React-2D2D2D?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-HTML5-2D2D2D?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/-CSS3-2D2D2D?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/-Bootstrap-2D2D2D?style=for-the-badge&logo=bootstrap&logoColor=563D7C" />
-</p>
-
-### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/-Java-2D2D2D?style=for-the-badge&logo=java&logoColor=007396" />
-  <img src="https://img.shields.io/badge/-Node.js-2D2D2D?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-2D2D2D?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/-Spring%20MVC-2D2D2D?style=for-the-badge&logo=spring&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/-Spring%20REST%20API-2D2D2D?style=for-the-badge&logo=spring&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/-Spring%20Security-2D2D2D?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
-</p>
-
-### ORM & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/-Hibernate-2D2D2D?style=for-the-badge&logo=hibernate&logoColor=59666C" />
-  <img src="https://img.shields.io/badge/-JPA-2D2D2D?style=for-the-badge&logo=java&logoColor=007396" />
-  <img src="https://img.shields.io/badge/-MySQL-2D2D2D?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/-MongoDB-2D2D2D?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-</p>
-
-### Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/-AWS-2D2D2D?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/-Docker-2D2D2D?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/-Kubernetes-2D2D2D?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
-</p>
-
-### Scripting & Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-2D2D2D?style=for-the-badge&logo=python&logoColor=3776AB" />
-</p>
-
-![Visitor Count](https://profile-counter.glitch.me/Manish10022001/count.svg)
--->
-<!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=manish10022001&theme=react-dark&hide_border=true&area=true) -->
+🛠️ Technologies & Tools
+Frontend
+<p align="left"> <img src="https://img.shields.io/badge/-JavaScript-2D2D2D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-TypeScript-2D2D2D?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/-React-2D2D2D?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-HTML5-2D2D2D?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/-CSS3-2D2D2D?style=for-the-badge&logo=css3&logoColor=1572B6" /> <img src="https://img.shields.io/badge/-MUI-2D2D2D?style=for-the-badge&logo=mui&logoColor=007FFF" /> <img src="https://img.shields.io/badge/-Bootstrap-2D2D2D?style=for-the-badge&logo=bootstrap&logoColor=563D7C" /> </p>
+Backend
+<p align="left"> <img src="https://img.shields.io/badge/-Node.js-2D2D2D?style=for-the-badge&logo=node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/-Express.js-2D2D2D?style=for-the-badge&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-Java-2D2D2D?style=for-the-badge&logo=java&logoColor=007396" /> <img src="https://img.shields.io/badge/-Django-2D2D2D?style=for-the-badge&logo=django&logoColor=092E20" /> <img src="https://img.shields.io/badge/-REST%20API-2D2D2D?style=for-the-badge&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/-JWT-2D2D2D?style=for-the-badge&logo=jsonwebtokens&logoColor=000000" /> </p>
+Mobile Development
+<p align="left"> <img src="https://img.shields.io/badge/-React%20Native-2D2D2D?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-Expo-2D2D2D?style=for-the-badge&logo=expo&logoColor=FFFFFF" /> </p>
+Database & ORM
+<p align="left"> <img src="https://img.shields.io/badge/-MongoDB-2D2D2D?style=for-the-badge&logo=mongodb&logoColor=47A248" /> <img src="https://img.shields.io/badge/-MySQL-2D2D2D?style=for-the-badge&logo=mysql&logoColor=4479A1" /> </p>
+Cloud & DevOps
+<p align="left"> <img src="https://img.shields.io/badge/-AWS-2D2D2D?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/-Docker-2D2D2D?style=for-the-badge&logo=docker&logoColor=2496ED" /> </p>
+Tools & Practices
+<p align="left"> <img src="https://img.shields.io/badge/-Git-2D2D2D?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/-GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-Postman-2D2D2D?style=for-the-badge&logo=postman&logoColor=FF6C37" /> </p><!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=manish10022001&theme=react-dark&hide_border=true&area=true) -->
 
 <!-- <div>
   <h4>🏆 Github Profile Trophy</h4>
