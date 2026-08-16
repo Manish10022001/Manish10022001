@@ -7,7 +7,7 @@ Hi, I'm Manish Shirsat — a passionate Full Stack Developer who loves building 
 I enjoy working across the stack — from designing intuitive frontends to building robust backend systems.
 
 -🔭 Currently working as an Associate Software Developer at Turtle Software Pvt. Ltd.<br>
--💻 Skilled in Frontend & Backend development using JavaScript, TypeScript, React, Node.js <br>
+-💻 Skilled in Frontend & Backend development using JavaScript, TypeScript, React, React Native, Node.js <br>
 -⚙️ Experienced in building RESTful APIs, scalable systems, and multi-tenant applications <br>
 -📱 Built and deployed cross-platform mobile apps (React Native - Expo) <br>
 -🌱 Continuously learning and improving in Full Stack Development & System Design <br>
