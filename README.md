@@ -187,9 +187,10 @@ Tools & Practices
 
 ## 🏆 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish10022001&layout=compact&theme=blue_navy) -->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish10022001&layout=compact&theme=blue_navy) 
 ## 🔥 GitHub Streak
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish10022001&theme=blue_navy&hide_border=false&background=0d1117) -->
+🏆 Top Languages
 ![GitHub Streak](https://streak-stats.demolab.com?user=manish10022001&theme=tokyonight)
 
 ## 👀 Profile Views
